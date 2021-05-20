@@ -83,7 +83,7 @@ sections:
         media_position: left
         media_width: thirty-three
         title: Social Media
-        align: left
+        align: center
       - title: Graphisme
         subtitle: Création de visuel
         content: |
