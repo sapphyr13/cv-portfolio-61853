@@ -9,7 +9,7 @@ sections:
         url: /contact
         style: secondary
         has_icon: false
-    image: images/MOI_Plan de travail 1.png
+    image: images/MOI2_Plan de travail 1.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
