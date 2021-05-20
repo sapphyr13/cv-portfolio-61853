@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Mélissa Lejeune
-    subtitle: Découvrez mes créations
+    subtitle: Community Manager
     actions:
       - label: Mes créations
         url: /contact
