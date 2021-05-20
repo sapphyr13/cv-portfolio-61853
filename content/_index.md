@@ -68,6 +68,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: thirty-three
+        align: center
       - subtitle: Gestion des réseaux sociaux
         content: |
           Gestion, définition de stratégie digitale, planification, analyse ... 
