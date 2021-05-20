@@ -18,7 +18,7 @@ params:
       - label: A propos
         url: /about
         style: link
-      - label: Contactez me
+      - label: Contactez moi
         url: /contact
         style: link
     has_secondary_nav: false
