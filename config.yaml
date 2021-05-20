@@ -21,6 +21,7 @@ params:
       - label: Contactez moi
         url: /contact
         style: link
+        icon_position: center
     has_secondary_nav: false
     has_anncmnt: false
   footer:
