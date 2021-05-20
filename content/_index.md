@@ -68,7 +68,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-      - subtitle: Gestion réseaux sociaux
+      - subtitle: Gestion des réseaux sociaux
         content: >-
           Managing an online business is a full-time job. I will make sure your
           products look great, sound great, and sell more on your choice of
