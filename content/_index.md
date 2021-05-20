@@ -80,7 +80,7 @@ sections:
             icon_position: right
         image: images/digital-marketing.svg
         image_alt: Feature 2 illustration
-        media_position: right
+        media_position: left
         media_width: thirty-three
         title: Social Media
         align: left
