@@ -32,7 +32,7 @@ sections:
       - image: images/BIFROST LOGO.png
         image_alt: Logo 2
         image_align: center
-      - image: images/logo-3.svg
+      - image: images/FNAC LOGO.png
         image_alt: Logo 3
         image_align: center
       - image: images/logo-4.svg
