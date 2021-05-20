@@ -20,7 +20,7 @@ sections:
     background_image: images/BACKGROUND-01.png
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 50
+    background_image_opacity: 40
   - type: grid_section
     title: EXPERIENCES
     subtitle: MES
