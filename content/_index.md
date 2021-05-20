@@ -87,7 +87,7 @@ sections:
         media_position: right
         media_width: sixty
         title: Social Media
-      - title: Technical Content
+      - title: Graphisme
         subtitle: 'Your products and services, at scale.'
         content: >-
           I will dive into the ins and outs of your product or service and make
