@@ -29,7 +29,7 @@ sections:
       - image: images/smart-mars.png
         image_alt: Logo 1
         image_align: center
-      - image: images/logo-2.svg
+      - image: images/BIFROST LOGO.png
         image_alt: Logo 2
         image_align: center
       - image: images/logo-3.svg
