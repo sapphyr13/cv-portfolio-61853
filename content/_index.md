@@ -19,7 +19,7 @@ sections:
     background_color: secondary
     background_image: images/BACKGROUND-01.png
     background_image_repeat: repeat
-    background_image_size: contain
+    background_image_size: cover
     background_image_opacity: 40
   - type: grid_section
     title: EXPERIENCES
