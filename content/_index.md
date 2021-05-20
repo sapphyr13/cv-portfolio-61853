@@ -87,13 +87,7 @@ sections:
         subtitle: Création de visuel
         content: |
           Création de graphisme pour tous les supports print et digitaux. 
-        actions:
-          - label: See Past Work
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/sketch.svg
         image_alt: Feature 3 illustration
         media_position: right
