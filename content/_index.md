@@ -50,7 +50,7 @@ sections:
     grid_gap_vert: medium
     background_color: none
   - type: features_section
-    title: My services
+    title: COMPETENCES
     subtitle: MES
     features:
       - title: Content Creation
