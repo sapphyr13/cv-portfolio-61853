@@ -22,7 +22,7 @@ sections:
     background_image_opacity: 8
   - type: grid_section
     title: Mes expériences
-    subtitle: Who I work with
+    subtitle: MES
     align: center
     grid_items:
       - image: images/logo-1.svg
