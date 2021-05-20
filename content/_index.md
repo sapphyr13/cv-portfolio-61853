@@ -5,7 +5,7 @@ sections:
     title: Mélissa Lejeune
     subtitle: Découvrez mes créations
     actions:
-      - label: Contact Me
+      - label: Mes créations
         url: /contact
         style: secondary
         has_icon: false
