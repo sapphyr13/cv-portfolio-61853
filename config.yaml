@@ -7,7 +7,7 @@ params:
   mode: light
   base_font: serif
   header:
-    title: Personal Theme
+    title: PORTOFOLIO
     logo: images/logo.svg
     logo_alt: Alyvia logo
     has_primary_nav: true
