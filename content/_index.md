@@ -54,7 +54,7 @@ sections:
     subtitle: MES
     features:
       - title: Création de contenu
-        subtitle: 'Site web, réseaux sociaux, ...'
+        subtitle: 'Site web, réseaux sociaux ...'
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
