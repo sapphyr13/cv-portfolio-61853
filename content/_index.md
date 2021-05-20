@@ -175,7 +175,7 @@ sections:
       - input_type: text
         name: Nom
         label: Nom
-        default_value: Your name
+        default_value: Votre nom
         is_required: true
       - input_type: email
         name: email
