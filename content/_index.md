@@ -108,7 +108,6 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: RECOMMANDATIONS
     subtitle: MES
     grid_items:
       - content: >-
