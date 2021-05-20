@@ -53,7 +53,7 @@ sections:
     title: COMPETENCES
     subtitle: MES
     features:
-      - title: Content Creation
+      - title: Création de contenu
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
