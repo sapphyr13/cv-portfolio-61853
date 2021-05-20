@@ -81,7 +81,7 @@ sections:
         image: images/digital-marketing.svg
         image_alt: Feature 2 illustration
         media_position: right
-        media_width: fourty
+        media_width: thirty-three
         title: Social Media
       - title: Graphisme
         subtitle: Création de visuel
