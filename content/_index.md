@@ -51,7 +51,7 @@ sections:
     background_color: none
   - type: features_section
     title: My services
-    subtitle: What I do
+    subtitle: MES
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
