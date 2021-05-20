@@ -84,7 +84,7 @@ sections:
         media_width: sixty
         title: Social Media
       - title: Graphisme
-        subtitle: Création de visuels
+        subtitle: Création de visuel
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
