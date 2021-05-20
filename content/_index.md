@@ -67,7 +67,7 @@ sections:
         image: images/register.svg
         image_alt: Feature 1 illustration
         media_position: right
-        media_width: sixty
+        media_width: thirty-three
       - subtitle: Gestion des réseaux sociaux
         content: |
           Gestion, définition de stratégie digitale, planification, analyse ... 
