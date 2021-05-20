@@ -159,11 +159,11 @@ sections:
     background_image_opacity: 12
   - type: form_section
     content: |
-      ## **CONTACTEZ MOI ! **
+      ## CONTACTEZ MOI !
 
-      Intéressez par mon profil, besoin de mes services ? 
+      Intéressez par mon profil, besoin de mes services ?
 
-      *Remplissez le formulaire et je reviendrais vers vous. *
+      Remplissez le formulaire et je reviendrais vers vous. 
     content_align: left
     form_position: right
     form_width: fifty
