@@ -85,10 +85,8 @@ sections:
         title: Social Media
       - title: Graphisme
         subtitle: Création de visuel
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: |
+          Création de graphisme pour tous les supports print et digitaux. 
         actions:
           - label: See Past Work
             url: /faq
