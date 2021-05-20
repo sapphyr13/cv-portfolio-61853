@@ -192,7 +192,7 @@ sections:
           Je comprends que ce formulaire stocke les informations que j'ai
           soumises afin que je puisse être contacté.
         is_required: true
-    submit_label: Send Message
+    submit_label: Envoyer
     align_vert: top
     padding_top: medium
     padding_bottom: medium
