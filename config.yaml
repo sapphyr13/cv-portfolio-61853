@@ -32,7 +32,7 @@ params:
       - label: Portofolio
         url: /about
         style: link
-      - label: FAQ
+      - label: A propos
         url: /faq
         style: link
       - label: Contact me
