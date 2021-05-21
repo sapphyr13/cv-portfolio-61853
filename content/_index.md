@@ -118,7 +118,7 @@ sections:
       - content: |
           BTS Communication
 
-          **ISPN,** Rouen*, 2019*
+          **ISPN,** *Rouen, 2019*
         image: images/logo-ispn-01.png
         image_position: left
         image_width: twenty-five
