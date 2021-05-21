@@ -3,9 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Contactez Moi
-    subtitle: >-
-      Remplissez le formulaire ci-dessous et je vous contacterai dans les
-      meilleurs délais.
+    subtitle: Remplissez le formulaire ci-dessous et je reviendrais vers vous.
     align: center
     padding_top: medium
     padding_bottom: medium
