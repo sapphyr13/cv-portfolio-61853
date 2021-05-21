@@ -134,7 +134,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
-    background_image: images/watercolor.png
+    background_image: images/4853433.jpg
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 12
