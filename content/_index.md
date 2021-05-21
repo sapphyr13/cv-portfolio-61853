@@ -108,12 +108,10 @@ sections:
         image: images/isd logo.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+      - content: |
+          Bachelor Chef de projet didital
 
-
-          **Miles Tone,** *CEO, Studio*
+          **Normandie Web School,** *Rouen, 2020*
         image: images/nws.png
         image_position: left
         image_width: twenty-five
