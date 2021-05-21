@@ -101,12 +101,10 @@ sections:
   - type: grid_section
     subtitle: MES
     grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
+      - content: |
+          Master Expert MArketing Digital
 
-
-          **Hanson Deck,** *App Developer, Studio*
+          **ISD FLAUBERT,** *Rouen, 2022*
         image: images/isd logo.png
         image_position: left
         image_width: twenty-five
