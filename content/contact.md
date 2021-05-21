@@ -5,7 +5,7 @@ sections:
     title: Contactez Moi
     subtitle: >-
       Remplissez le formulaire ci-dessous et je vous contacterai dans les
-      meilleurs délai d'un jour ouvrable.
+      meilleurs délais.
     align: center
     padding_top: medium
     padding_bottom: medium
