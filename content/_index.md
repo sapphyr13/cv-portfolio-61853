@@ -126,7 +126,7 @@ sections:
 
 
           **Eleanor Carr,** *CTO, eCommerce Business*
-        image: images/ISPN.png
+        image: images/logo-ispn-01.png
         image_position: left
         image_width: twenty-five
       - content: >-
