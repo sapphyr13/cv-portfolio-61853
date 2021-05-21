@@ -26,7 +26,7 @@ params:
     has_anncmnt: false
   footer:
     logo: images/logo mdesign_Plan de travail 1.png
-    logo_alt: Mdesign logo
+    logo_alt: Design logo
     has_primary_nav: true
     primary_nav_links:
       - label: About
