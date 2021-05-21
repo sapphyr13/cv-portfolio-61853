@@ -136,7 +136,7 @@ sections:
     background_color: secondary
     background_image: images/4853433.jpg
     background_image_repeat: repeat
-    background_image_size: contain
+    background_image_size: cover
     background_image_opacity: 12
     title: ETUDES
   - type: form_section
