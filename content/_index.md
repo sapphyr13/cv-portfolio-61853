@@ -125,7 +125,7 @@ sections:
       - content: |
           Baccalauréat Economique et Social, Option Audiovisuel
 
-          **Lycée Jehan Ango,** *Dieppe, 2017*
+          **Lycée Jehan Ango,** *Dieppe, 2016*
         image: images/ANGO.png
         image_position: left
         image_width: twenty-five
