@@ -182,7 +182,7 @@ sections:
     background_image: images/4853433.jpg
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 8
+    background_image_opacity: 30
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
