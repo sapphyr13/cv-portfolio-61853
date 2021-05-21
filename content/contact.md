@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Contactez Moi
     subtitle: >-
-      Remplissez le formulaire ci-dessous et je vous contacterai dans un délai
-      d'un jour ouvrable.
+      Remplissez le formulaire ci-dessous et je vous contacterai dans les
+      meilleurs délai d'un jour ouvrable.
     align: center
     padding_top: medium
     padding_bottom: medium
