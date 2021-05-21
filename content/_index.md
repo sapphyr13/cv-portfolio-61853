@@ -115,13 +115,10 @@ sections:
         image: images/nws.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Working with Alyvia was great because she was well versed in all of
-          our tools and applications, and was able to manage our store and
-          campaigns without any technical glitches.
+      - content: |
+          BTS Communication
 
-
-          **Eleanor Carr,** *CTO, eCommerce Business*
+          **ISPN,** Rouen*, 2019*
         image: images/logo-ispn-01.png
         image_position: left
         image_width: twenty-five
