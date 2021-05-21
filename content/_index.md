@@ -122,12 +122,10 @@ sections:
         image: images/logo-ispn-01.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
+      - content: |
+          Baccalauréat Economique et Social, Option Audiovisuel
 
-
-          **Gordon Norman,** *Web Designer, Local Business*
+          **Lycée Jehan Ango,** *Dieppe, 2017*
         image: images/ANGO.png
         image_position: left
         image_width: twenty-five
